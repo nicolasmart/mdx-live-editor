@@ -1,7 +1,7 @@
 {
   "name": "mdx-live",
   "private": true,
-  "version": "^1.0.0",
+  "version": "1.0.0",
   "scripts": {
     "build": "lerna run build",
     "publish": "lerna version --no-push --conventional-commits && lerna publish from-git"
